@@ -1,6 +1,7 @@
-<img align="center" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM3MjQyMzAsIm5iZiI6MTczMzcyMzkzMCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA5VDA1NTg1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA4NDQ5MjU4ODBiZmQwZDhkZTM0NzgyYzk1MThiOWM2ODc1NTQ3ZTc3ZTk0ZTQwNGYxY2NiNzMxMjc4NzY3ZmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4JlrM9y98fhFSkh0AeQ0Y6Zahjb3siEUdrC02BVZwg4" width="100%" height="300px"/>
+<img align="center" src="standard.gif" width="100%" height="300px"/>
 
-<a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&vCenter=true&width=435&lines=I'm+BHARGAV+KRISHNA;Graphic+Designer!;Web+Developer!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=A311F7&center=true&vCenter=true&random=false&width=435&lines=Graphic+Designer!;Web+Developer!;Mastering+More!" alt="Typing SVG" /></a>
+
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tzbhargav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tzbhargav) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tzbhargav) 
