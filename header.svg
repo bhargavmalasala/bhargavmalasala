@@ -5,6 +5,10 @@
       <stop offset="0%" style="stop-color: #3b82f6; stop-opacity: 1" />
       <stop offset="100%" style="stop-color: #8b5cf6; stop-opacity: 1" />
     </linearGradient>
+    <linearGradient id="wave-fill-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color: #3b82f6; stop-opacity: 0.3" />
+      <stop offset="100%" style="stop-color: #8b5cf6; stop-opacity: 0.3" />
+    </linearGradient>
     <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blurred" />
       <feMerge>
@@ -14,11 +18,11 @@
     </filter>
   </defs>
 
-  <!-- Neon Waves -->
-  <path d="M0 35 Q50 25 100 35 T200 35 V50 H0 Z" fill="none" stroke="url(#blue-purple-gradient)" stroke-width="2" filter="url(#neon-glow)">
+  <!-- Neon Waves with Fill -->
+  <path d="M0 35 Q50 25 100 35 T200 35 V50 H0 Z" fill="url(#wave-fill-gradient)" stroke="url(#blue-purple-gradient)" stroke-width="2" filter="url(#neon-glow)">
     <animateTransform attributeName="transform" type="translate" dur="4s" repeatCount="indefinite" values="0,0;20,0;0,0" keyTimes="0;0.5;1" />
   </path>
-  <path d="M0 45 Q50 35 100 45 T200 45 V50 H0 Z" fill="none" stroke="url(#blue-purple-gradient)" stroke-width="2" filter="url(#neon-glow)" opacity="0.7">
+  <path d="M0 45 Q50 35 100 45 T200 45 V50 H0 Z" fill="url(#wave-fill-gradient)" stroke="url(#blue-purple-gradient)" stroke-width="2" filter="url(#neon-glow)" opacity="0.7">
     <animateTransform attributeName="transform" type="translate" dur="4s" repeatCount="indefinite" values="0,0;-20,0;0,0" keyTimes="0;0.5;1" />
   </path>
 
