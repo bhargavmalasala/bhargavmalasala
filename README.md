@@ -1,4 +1,4 @@
-<img align="center" src="standard.gif" width="100%" height="300px"/>
+<img align="center" src="header.svg" width="100%" height="300px"/>
 
 <a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=A311F7&center=true&vCenter=true&random=false&width=435&lines=Graphic+Designer!;Web+Developer!;Mastering+More!" alt="Typing SVG" /></a>
 
@@ -15,3 +15,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tzbhargav&icon=0&color=0)](https://visitcount.itsvg.in)
+<img align="center" src="footer.svg" width="100%" height="300px"/>
