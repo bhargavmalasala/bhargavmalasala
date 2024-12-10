@@ -3,12 +3,25 @@
 <a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=497CF6&center=true&vCenter=true&random=false&width=435&lines=I'm+Bhargav+Krishna;Graphic+Designer!;Web+Developer!;Mastering+More!" alt="Typing SVG" /></a>
 
 
-[![](https://visitcount.itsvg.in/api?id=tzbhargav&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="http://www.github.com/tzbhargav">
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=tzbhargav&label=+PROFILE+VIEWS+&color=497CF6"/>
+  </div>
+</a>
+<br>
+<div align="center">
+  
+  ✧ UI/UX Design ✧  Web Development ✧  Poster Designing ✧   
 
+</div>
+<br>
+✦ I’m **Bhargav Krishna** <br>
+✦ I craft intuitive, user-friendly designs that resonate with audiences.<br>
+✦ I excel in developing sleek website designs that combine seamless visuals with engaging aesthetics.<br>
+✦ I am passionate about exploring cutting-edge tools and techniques in UI/UX design and web development.<br>
+✦ I aim to build impactful, open-source projects to support the creative and developer communities.<br>
+✦📫 Contact me-> **tzbhargav@gmail.com**
 
-- 🌱 I’m currently learning **Web Development, Graphic designing**
-
-- 📫 Contact me-> **tzbhargav@gmail.com**
 
 
 # 💻Tech Stack
