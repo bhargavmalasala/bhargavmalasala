@@ -34,7 +34,7 @@
 
 # GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=tzbhargav&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tzbhargav&theme=tokyonight&hide_border=true" alt="tzbhargav's GitHub Stats" />
+![Bhargav's streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tzbhargav&theme=tokyonight&hide_border=true)
 
 
 <h3 align="left">Connect with me:</h3>
