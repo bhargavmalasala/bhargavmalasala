@@ -32,9 +32,8 @@
 <br>
 
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=tzbhargav&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tzbhargav&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+# GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=tzbhargav&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tzbhargav&theme=tokyonight&hide_border=true" alt="tzbhargav's GitHub Stats" />
 
 
