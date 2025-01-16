@@ -5,7 +5,7 @@
 
 <a href="http://www.github.com/tzbhargav">
   <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=tzbhargav&label=+PROFILE+VIEWS+&color=497CF6"/>
+    <img src="https://komarev.com/ghpvc/?username=bhargavmalasala&label=+PROFILE+VIEWS+&color=497CF6"/>
   </div>
 </a>
 <br>
@@ -33,8 +33,8 @@
 
 
 # GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=tzbhargav&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![Bhargav's streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=tzbhargav&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=bhargavmalasala&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![Bhargav's streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=bhargavmalasala&theme=tokyonight&hide_border=false)
 
 
 <h3 align="left">Connect with me:</h3>
