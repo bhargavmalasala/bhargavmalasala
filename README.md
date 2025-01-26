@@ -33,9 +33,8 @@
 
 
 # GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=bhargavmalasala&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![bhargavmalasala's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhargavmalasala&theme=tokyonight&hide_border=true)
-
+![](https://github-readme-stats.vercel.app/api?username=bhargavmalasala&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) 
+![bhargavmalasala's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhargavmalasala&theme=tokyonight&hide_border=false)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
