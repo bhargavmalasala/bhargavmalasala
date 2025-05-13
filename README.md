@@ -11,7 +11,7 @@
 <br>
 <div align="center">
   
-  ✧ UI/UX Design ✧  Web Development ✧  Poster Designing ✧   
+  ✧ UI/UX Design ✧  Web Development ✧  AI Enthusiast ✧   
 
 </div>
 <br>
