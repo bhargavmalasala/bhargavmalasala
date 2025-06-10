@@ -16,11 +16,11 @@
 </div>
 <br>
 
-✦ I’m Bhargav Krishna
-✦ I develop high-performance, full-stack web applications with intuitive and engaging user interfaces.
-✦ I specialize in creating responsive frontend designs and reliable backend architectures that deliver seamless functionality.
-✦ I’m driven by a passion for innovative web technologies and modern development practices to build impactful solutions.
-✦ I strive to contribute to open-source initiatives that inspire and support the global developer community.
+✦ I’m Bhargav Krishna.<br>
+✦ I develop high-performance, full-stack web applications with intuitive and engaging user interfaces.<br>
+✦ I specialize in creating responsive frontend designs and reliable backend architectures that deliver seamless functionality.<br>
+✦ I’m driven by a passion for innovative web technologies and modern development practices to build impactful solutions.<br>
+✦ I strive to contribute to open-source initiatives that inspire and support the global developer community.<br>
 ✦ 📫 Reach out -> tzbhargav@gmail.com
 
 
