@@ -16,12 +16,12 @@
 </div>
 <br>
 
-✦ I’m  **Bhargav Krishna**<br>
-✦ I craft intuitive, user-friendly designs that resonate with audiences.<br>
-✦ I excel in developing sleek website designs that combine seamless visuals with engaging aesthetics.<br>
-✦ I am passionate about exploring cutting-edge tools and techniques in UI/UX design and web development.<br>
-✦ I aim to build impactful, open-source projects to support the creative and developer communities.<br>
-✦📫 Contact me-> **tzbhargav@gmail.com**
+✦ I’m Bhargav Krishna
+✦ I develop high-performance, full-stack web applications with intuitive and engaging user interfaces.
+✦ I specialize in creating responsive frontend designs and reliable backend architectures that deliver seamless functionality.
+✦ I’m driven by a passion for innovative web technologies and modern development practices to build impactful solutions.
+✦ I strive to contribute to open-source initiatives that inspire and support the global developer community.
+✦ 📫 Reach out -> tzbhargav@gmail.com
 
 
 <br>
